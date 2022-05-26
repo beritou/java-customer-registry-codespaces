@@ -26,7 +26,7 @@
 		"vscjava.vscode-java-pack"
 	],
 
-	"postCreateCommand": "yes | curl -sL https://docs.kalix.io/install-cli.sh | sudo bash",
+	//"postCreateCommand": "yes | curl -sL https://docs.kalix.io/install-cli.sh | sudo bash",
     "forwardPorts": [4000],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
