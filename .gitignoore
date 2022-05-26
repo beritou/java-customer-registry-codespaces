@@ -6,6 +6,7 @@ node_modules
 .vscode-test
 undefined
 target
+target/
 dist
 jre
 bin/
